@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efc9d06e-0ba4-4f9e-8938-3a5c84e19db9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backblue.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fade.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/doit.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/new.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/new.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/new.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/winprofile.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hts-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/getData.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/animated_favicon1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/css/AjaxLoader.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/css/grabbing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/css/ml.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/css/passwordscheck.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/css/rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/css/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/images/sitenameNewBig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/js/in.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/js/jq3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/js/main.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/Edge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/Edge/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/Trident.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/Trident/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/loginf5b0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/pass/Edge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/pass/Edge/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/pass/Trident.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/pass/Trident/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/pass/recover.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utid.ut.ac.ir/user/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/public/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/public/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersInfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/usersInfo.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585587918509</updated>
       <workItem from="1585587920187" duration="2171000" />
-      <workItem from="1585601221089" duration="7236000" />
+      <workItem from="1585601221089" duration="8270000" />
     </task>
     <servers />
   </component>
