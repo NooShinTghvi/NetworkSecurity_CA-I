@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-utid.ut.ac.ir	TRUE	/	FALSE	1999999999	laravel_session	eyJpdiI6IlRiNU9weW1ObFp1TGFyQjhENnhISUE9PSIsInZhbHVlIjoiQkhORzFzQVF5c0FLMXBDRjBCTWxMQ2JHUDRwbkFEZlRMVlRLV1krTVl6bHFQSUkxTGdNbXVQclc2NGZYQlc5bFFmZUZ0Ym5xZFpCQ2IrNERlMXVxemc9PSIsIm1hYyI6IjhjMjhkYTAxMWQ1MzQwZjg3ZmQ1NDNmNzU5NWFkZmIyZjg4MWMzNTk4N2E4OTcxODNhNzcxYWQ0MWViYWZlYzIifQ%3D%3D
-
