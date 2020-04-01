@@ -10,6 +10,3 @@ if (!empty($id) & !empty($pass)){
 }
 header( "Location: https://utid.ut.ac.ir/user/login" );
 exit ;
-
-
-//https://utid.ut.ac.ir
